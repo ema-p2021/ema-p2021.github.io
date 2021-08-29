@@ -226,7 +226,7 @@ li#lihome a{
 }
 
 .nav-menu li a {
-    text-align: center;
+    text-align: left;
     background-image: url(../img/slide-bg.png); 
     border: 1px solid #392222;
     color: white;
