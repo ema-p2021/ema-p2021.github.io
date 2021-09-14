@@ -60,6 +60,10 @@ td {
     padding-bottom: 6px;
 }
 
+table#programa {
+    border: 1px solid black; 
+}
+
 td#numerito {
     font-weight: bold;
     text-align: left;
