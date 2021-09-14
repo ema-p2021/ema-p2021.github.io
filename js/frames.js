@@ -15,14 +15,18 @@ function frames(variable){
         document.getElementById("enframe").height="650";
     }
     else if (variable==4){
+        document.getElementById("enframe").src="pages/charlas.html";
+        document.getElementById("enframe").height="650";
+    }   
+    else if (variable==5){
         document.getElementById("enframe").src="pages/postulacion.html";
         document.getElementById("enframe").height="650";
     }
-    else if (variable==5){
+    else if (variable==6){
         document.getElementById("enframe").src="pages/patrocinadores.html";
         document.getElementById("enframe").height="650";
     }
-    else if (variable==6){
+    else if (variable==7){
         document.getElementById("enframe").src="pages/contacto.html";  
         document.getElementById("enframe").height="650";
     }
