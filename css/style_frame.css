@@ -27,11 +27,8 @@ h1 a, h2 a, h3 a {
 }
 
 h1 { 
-    text-align: center;
-    color: white;
-    background: #C31E12;
-    font-size: 20px;  
-    border: 1px solid #392222;     
+    color: #C31E12;
+    font-size: 15px;   
 }
 
 h2 { 
