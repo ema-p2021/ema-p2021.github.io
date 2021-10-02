@@ -1,14 +1,14 @@
    
 function frames(variable){
         document.getElementById("enframe").src="pages/home.html";
-        document.getElementById("enframe").height="650";
+        document.getElementById("enframe").height="600";
     if (variable==1){
         document.getElementById("enframe").src="pages/home.html";
-        document.getElementById("enframe").height="650";
+        document.getElementById("enframe").height="600";
     }
     else if (variable==2){
         document.getElementById("enframe").src="pages/programa.html";
-        document.getElementById("enframe").height="650";
+        document.getElementById("enframe").height="600";
     }
     else if (variable==3){
         document.getElementById("enframe").src="pages/cursillos.html";
@@ -24,10 +24,10 @@ function frames(variable){
     }
     else if (variable==6){
         document.getElementById("enframe").src="pages/patrocinadores.html";
-        document.getElementById("enframe").height="650";
+        document.getElementById("enframe").height="600";
     }
     else if (variable==7){
         document.getElementById("enframe").src="pages/contacto.html";  
-        document.getElementById("enframe").height="650";
+        document.getElementById("enframe").height="600";
     }
 } 
