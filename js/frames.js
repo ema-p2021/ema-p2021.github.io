@@ -16,7 +16,7 @@ function frames(variable){
     }
     else if (variable==4){
         document.getElementById("enframe").src="pages/charlas.html";
-        document.getElementById("enframe").height="700";
+        document.getElementById("enframe").height="800";
     }   
     else if (variable==5){
         document.getElementById("enframe").src="pages/postulacion.html";
